@@ -6,6 +6,7 @@ __pycache__/
 .DS_Store
 credits.csv
 ratings.csv
+movies_metadata.csv
 
 # C extensions
 *.so
