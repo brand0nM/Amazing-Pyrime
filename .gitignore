@@ -4,9 +4,9 @@ __pycache__/
 *$py.class
 
 .DS_Store
-credits.csv
-ratings.csv
-movies_metadata.csv
+archives/credits.csv
+archives/ratings.csv
+archives/movies_metadata.csv
 
 # C extensions
 *.so
