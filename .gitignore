@@ -7,6 +7,8 @@ __pycache__/
 credits.csv
 ratings.csv
 movies_metadata.csv
+ETL_Notes.ipynb
+Movielens_Extract.ipynb
 
 # C extensions
 *.so
