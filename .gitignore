@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+config.py
 .DS_Store
 cleaned_merged_movies_df.csv
 raw_kaggle_df.csv
