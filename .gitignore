@@ -4,8 +4,9 @@ __pycache__/
 *$py.class
 
 .DS_Store
-kaggle_df.csv
-movielens_rating_df.csv
+cleaned_merged_movies_df.csv
+raw_kaggle_df.csv
+raw_movielens_rating_df.csv
 credits.csv
 ratings.csv
 movies_metadata.csv
