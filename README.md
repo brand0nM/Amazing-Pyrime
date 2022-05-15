@@ -10,3 +10,4 @@ The main difficulty of this project was working with large (200 MB- 1 GB) files 
 
 ## Summary
 We've successfully created the movie analysis pipeline and can now query these databases using PostgreSQL.
+<img width="1440" alt="Screen Shot 2022-05-15 at 2 17 26 PM" src="https://user-images.githubusercontent.com/79609464/168492222-d1aeaea2-3035-4ed9-ae76-0f24032ced7a.png">
